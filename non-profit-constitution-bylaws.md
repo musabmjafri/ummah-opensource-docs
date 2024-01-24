@@ -205,7 +205,7 @@ This document, referred to as the 'Constitution,' governs the operation and affa
 1. If there is need for special elections, the following terms must be applied:
 
       1. Special elections shall be held only if the unexpired term of the vacant office is more than twelve (12) months. The procedure outlined in Article 6 shall be followed to fill the vacancy through special elections.
-      2. If any position including the Amir cannot be filled through Article 6, Clause 7.3, a special election shall be held. If the vacant position is that of the Amir, the Imam shall serve as Amir until this position is filled through a special election. If Imam's position is vacant or the Imam is absent during this term, the Shura members shall elect the Amir among themselves until the special election is held.
+      2. If any position including the Amir cannot be filled through Article 6, Clause 7.3, a special election shall be held. If the vacant position is that of the Amir, the Imam shall serve as Amir until this position is filled through a special election. If Imam's position is vacant or the Imam is absent during this term, the founders can choose among themselves to serve as Amir until this position is filled through special elections. If the founders are not available anymore, the Shura members shall elect the Amir among themselves until the special election is held.
       3. In case the entire Shura including the Amir resign or are terminated, the Imam shall take charge of the responsibilities of the Amir and carry out the affairs of \<ORG\> until a new Amir and Shura are elected in accordance with Article 6, Clause 8. If the Imam's position is vacant, the last Election Commission shall take charge of the affairs of \<ORG\> until a new Amir and Shura are elected in accordance with Article 6, Clause 8.
 
 ## Year of Establishment of the Constitution
@@ -232,14 +232,14 @@ This document, referred to as the 'Constitution,' governs the operation and affa
 ## Majlis-e-Shura and the Amir
 
 1. The Shura (Board of Directors) shall be responsible for providing policy guidelines for programs and activities of \<ORG\>.
-2. The Shura shall strive for all decisions through consensus, however majority vote of the Shura shall always prevail. However, the Shura and the Amir shall be completely accountable to the Majlis-e-Aam.
+2. The Shura shall strive for all decisions through consensus, however majority vote of the Shura shall always prevail. However, the Shura and the Amir shall be completely accountable to the Majlis-e-Aam and shall regularly consult with the founders.
 3. The Shura shall formulate long-term planning of \<ORG\> if there is none at the moment, or if the previous plan has been completed. An integrated six (6) year plan detailing activities and the resource requirements shall be presented at the annual Majlis-e-Aam meeting.
-4. The Shura shall meet at least once a month. The meetings shall follow the guidelines prescribed in Article 10, Clause 1 including the parameters of the minutes of the meeting.
+4. The Shura shall meet at least once a month. The meetings shall follow the guidelines prescribed in Article 10, Clause 1, including the parameters of the minutes of the meeting. All minutes of the meeting shall be made public after the meeting.
 5. The Shura must maintain all records and documents of \<ORG\> including but not limited to deeds of trust, leases, marriages, births, deaths, divorces, list of registered members, financial records, and details and contracts of hired employees of \<ORG\>.
 6. The Shura shall be responsible for all financial activities including but not limited to fundraising, collection, and distribution of Zakaat-al-Maal and Zakaat-al-Fitr as well as other donations.
 7. The Shura may hire or terminate employee(s) of \<ORG\> as required to efficiently run the operations of \<ORG\> on such terms and conditions as the Shura deem fit.
 8. The Shura shall be authorized to obtain bids, execute, and award contracts. Any contract work over $10,000 (ten thousand dollars) shall require at least three bids, with consensus and approval from all members of Shura.
-9. The Shura and the Amir shall hand over all original documents, assets, access to safe deposit, and action items to the succeeding Shura and the Amir. The succeeding Shura shall implement the written commitments of the previous Shura as long as these commitments are within the framework of Article 2.
+9. The Shura and the Amir shall hand over all original documents, assets, access to safe deposit, and action items to the succeeding Shura and the Amir. The succeeding Shura shall implement the written commitments of the previous Shura if these commitments are within the framework of Article 2.
 10. Any Shura member who is absent without prior notification for three consecutive meetings shall automatically lose the office and the vacancy so created shall be filled in accordance with Article 6. Clause 7.3.
 
 ## Amir
@@ -261,10 +261,10 @@ This document, referred to as the 'Constitution,' governs the operation and affa
 
 ## Appointment of the Imam
 
-1. Shura shall appoint a committee consisting of at least three (3) volunteer members for the selection of Imam who shall make a final recommendation of the Shura. This committee shall consist of people like ex-Amir and respected senior community members knowledgeable in Qur'an and Sunnah of Prophet Muhammad ﷺ – peace and blessings be upon him.
+1. Shura shall appoint a committee consisting of at least three (3) volunteer members for the selection of Imam who shall make a final recommendation of the Shura. This committee shall consist of people like ex-Amir, founders, and respected senior community members knowledgeable in Qur'an and Sunnah of Prophet Muhammad ﷺ – peace and blessings be upon him.
 2. The committee shall seek applications for the full time Imam, make announcements, and may advertise for the position, contact Islamic organizations to invite applications, scrutinize the applications using the criteria established in Article 8, Clause 20. The committee shall separately invite maximum of three (3) prospective candidates to provide interaction with the community in the Masjid / Musallah by way of holding lectures and/or Jum'ah khutba (Friday sermon).
 3. Shura shall seek approval for the final candidate from the Majlis-e-Aam in a meeting or by referendum and offer the position under contract clearly defining the terms, for an initial period of three (3) years. Renewable for the same period by the approval of the review committee and Majlis-e-Aam. If the candidate does not accept the position, the process is repeated to obtain Majlis-e-Aam's approval for the next candidate from the list. If no candidate accepts, start the process again from Article 8, Clause 25.
-4. In the absence of a permanent Imam, the Shura is responsible for finding volunteers from Majlis-e-Aam for Imams until a full time Imam is appointed. To perform the duties of the Imam, the Amir and volunteer Imams shall seek advice on Islamic rulings from resident Imam of the neighboring Masjid / Islamic Center.
+4. In the absence of a permanent Imam, the Shura is responsible for finding volunteers from Majlis-e-Aam for Imams until a full time Imam is appointed. To perform the duties of the Imam, the Amir, founders, and volunteer Imams shall seek advice on Islamic rulings from resident Imam of the neighboring Masjid / Islamic Center.
 
 ## Office of Economic Affairs and the Treasurer
 
@@ -320,6 +320,16 @@ This document, referred to as the 'Constitution,' governs the operation and affa
 5. The HSPA shall assist or the Shura and appropriate fundraising committees in setting up meetings with other Islamic Centers and Masajid or procure appointments for them in order to facilitate collaboration in fundraising for \<ORG\> and its causes.
 6. The HSPA shall hand over all admin level access to the social media accounts of \<ORG\> in the presence of the Shura to the succeeding HSPA at the end of term or upon leaving the office.
 
+## Founders
+
+1. Founders are members of the Majlis-e-Aam that consist of the initial group that formed the non-profit and are custodians of the \<ORG\> and this constitution.
+2. Founders shall ensure that any subsequent member of Majlis-e-Aam, Shura, all employees, and the community adhere to the constitution, and that any decisions being made do not conflict with any clause in Article 2.
+3. Founders shall ensure that there are no conflicts in the matters of the \<ORG\> and shall work towards providing resolutions.
+4. Founders shall have the right to call for dismissal of the members of the Shura and conduct a vote among themselves to dismiss anyone from the office.
+5. Founders shall have authority to call for amendments to the constitution following all clauses of Article 12.
+6. All founders shall hold loyalty towards the \<ORG\> and must not hold conflict of interest in any matter of the \<ORG\>.
+7. The founders, if available, shall oversee the handover of all documents, assets, and accesses from one elected member to the next.
+
 ## Committees and Subcommittees
 
 1. Committees and subcommittees may be established or dissolved by the Shura in the respective areas. The responsibilities of all committees shall be within the framework of this Constitution.
@@ -333,6 +343,12 @@ This document, referred to as the 'Constitution,' governs the operation and affa
 2. Each community member shall observe the Islamic code of conduct in dealing with each other and respect the authorities. The sanctity of the Mihrab, the prayer hall, and other facilities shall be observed in accordance with the injunctions of the Qur'an and Sunnah of Prophet Muhammad ﷺ – peace and blessings be upon him.
 3. For any member or group found in violation of the Islamic code of conduct and rules of behavior or disturbing the peace and harmony in the Masjid / Musallah, or abusing \<ORG\>'s assets, or insulting the \<ORG\> authorities; the Shura in consultation with the Imam, may take an appropriate disciplinary action against such individual or group.
 
+## Trustees
+
+1. All trustees are members of the community that have made large contributions to the \<ORG\>. Such qualifying contributions shall be large sums of money, property, or any contribution free of charge, without any conditions attached to them.
+2. Trustees may consist of members unregistered with \<ORG\> but shall have all rights and responsibilities of the community.
+3. Trustees may opt to remain anonymous publicly for their contributions but shall be mentioned in the financial ledgers or asset documents for record-keeping purposes.
+
 # Article 9 – Finances
 
 1. The Shura shall maintain a non-interest-bearing account of \<ORG\> at a bank in Dallas-Fort Worth Area, or surrounding areas. This account shall be operated under the treasurer and Amir's signatures.
@@ -341,7 +357,7 @@ This document, referred to as the 'Constitution,' governs the operation and affa
 4. The Shura shall appoint a certified public accountant (CPA) to audit \<ORG\>'s accounts annually.
 5. Donations and charitable contributions made to \<ORG\> shall be treated as final and irreversible to the extent permitted by law and in accordance with established ethical guidelines. \<ORG\> reserves the right to assess any potentially problematic conditions attached to a donation and may decline acceptance based on such concerns.
 6. The validity of any loan or grant extended to \<ORG\> shall be contingent upon the formal execution of a written agreement that explicitly identifies the financial transaction as a loan or grant, respectively.
-7. All financial information including ledgers and receipts shall be transparent and available for every individual members of Majlis-e-Aam for review at all times.
+7. All financial information including ledgers and receipts shall be transparent and available for every individual member of Majlis-e-Aam for review at all times.
 
 # Article 10 – Meetings and Quorum
 
@@ -369,8 +385,9 @@ This document, referred to as the 'Constitution,' governs the operation and affa
 
 1. At least twenty percent (20%) registered members of Majlis-e-Aam of \<ORG\> constitute the quorum for Majlis-e-Aam meetings.
 2. At least thirty percent (30%) registered members of Majlis-e-Aam of \<ORG\> constitute the quorum for an amendment to the Constitution as detailed in Article 12, Clause 3.
-3. Meetings adjourned for lack of quorum must be reconvened within a reasonable time, not exceeding thirty (30) days.
-4. A reconvened meeting does not need a quorum. However, the date, time, and place for the reconvening meeting shall be determined before adjournment of original meeting.
+3. At least twenty percent (20%) registered members of the Majlis-e-Aam of the \<ORG\> constitute the quorum for meetings called for dismissing a member of the Shura or an office bearer.
+4. Meetings adjourned for lack of quorum must be reconvened within a reasonable time, not exceeding thirty (30) days.
+5. A reconvened meeting does not need a quorum. However, the date, time, and place for the reconvening meeting shall be determined before adjournment of original meeting.
 
 # Article 11 – Dissolution of \<ORG\>
 
